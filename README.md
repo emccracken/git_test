@@ -1,1 +1,1 @@
-This is Ezekiel's first git project!
+This is Ezekiel's second git project!
